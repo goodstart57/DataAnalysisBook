@@ -2,13 +2,13 @@
 
 # R로 배우는 실무 데이터 과학<br>Practical Data Science with R
 
+<img src="https://github.com/saebuck/DataAnalysisBook/blob/master/Images/R%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EC%8B%A4%EB%AC%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B3%BC%ED%95%99.jpg?raw=true" alt="표지" style="width: 450px">
+
 </center>
 
 
 
-```
-표지 넣는 자리
-```
+
 
 
 
